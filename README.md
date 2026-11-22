@@ -42,5 +42,5 @@ CO and ozone monthly means are displayed with 95% confidence intervals, while PM
 Sia Gbondo-Tugbawa  
 Duke University  
 BIOSTAT 721  
-Project 2
+Project 2  
 November 2026
